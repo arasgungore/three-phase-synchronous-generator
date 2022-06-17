@@ -17,7 +17,7 @@ In all of the plots, the phasors need to be in vector shapes not as simple lines
 command quiver).
 
 1. Create a MATLAB function for plotting the phasor diagram of the generator for different
-    values of the stator current I_A, the field current I_F, the terminal voltage V_T, and
+    values of the stator current ![I_A](https://render.githubusercontent.com/render/math?math=I_A), the field current I_F, the terminal voltage V_T, and
     the power angle (and perhaps the color of the objects in the plot). Explain briefly in
     your report theoretical calculations and include the code in the appendix of the report.
 2. At rated conditions, compute and provide |I_A|max and |E_A|max. Explain briefly in your
