@@ -11,7 +11,7 @@ reactance of 2.5 Ω and an armature resistance of 0.2 Ω. At 60 Hz, its friction
 its core losses are 1.5MW. The field circuit has a DC voltage of 120V, and the maximum field current, I_F, is 10 A.
 The current of the field circuit, I_F, is adjustable over the range from 0 to 10A for which the OCC of this generator is given as:
 
-![equation](https://latex.codecogs.com/svg.image?V_{T,OpenCircuit}(\textit{I})&space;=&space;20(1.05&space;−&space;\exp{\textit{I}})&space;\textit{kV})
+![equation](https://latex.codecogs.com/svg.image?V_{T,OpenCircuit}(I_F)=20\,(1.05-\exp(-0.3\,I_F))\;kV)
 
 In all of the plots, the phasors need to be in vector shapes not as simple lines (Hint: check the
 command quiver).
