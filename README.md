@@ -11,7 +11,7 @@ A 13.8 kV, 50 MVA, 0.9–power–factor–lagging, 60 Hz, four-pole Y–connecte
 
 ![equation](https://latex.codecogs.com/svg.image?%5Clarge%20V_%7BT,OpenCircuit%7D(I_F)=20%5C,(1.05-%5Cexp(-0.3%5C,I_F))%5C;kV)
 
-In all of the plots, the phasors need to be in vector shapes not as simple lines (Hint: check the
+In all of the plots, the phasors need to be in vector shapes, not as simple lines (Hint: check the
 command quiver).
 
 1. Create a MATLAB function for plotting the phasor diagram of the generator for different values of the stator current ![I_A](https://latex.codecogs.com/svg.image?I_A), the field current ![I_F](https://latex.codecogs.com/svg.image?I_F), the terminal voltage ![V_T](https://latex.codecogs.com/svg.image?V_T), and the power angle (and perhaps the color of the objects in the plot). Explain briefly in your report theoretical calculations and include the code in the appendix of the report.
