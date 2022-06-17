@@ -7,7 +7,7 @@ A MATLAB project which analyzes a 13.8 kV, 50 MVA, 0.9–power–factor–laggin
 ## Description
 
 A 13.8 kV, 50 MVA, 0.9–power–factor–lagging, 60 Hz, four-pole Y–connected synchronous generator has a synchronous reactance of 2.5 Ω and an armature resistance of 0.2 Ω. At 60 Hz, its friction and windage losses are 1 MW, and its core losses are 1.5MW. The field circuit has a DC voltage of 120 V, and the maximum field current,
-![I_F](https://render.githubusercontent.com/render/math?math=I_F), is 10 A. The current of the field circuit, ![I_F](https://render.githubusercontent.com/render/math?math=I_F), is adjustable over the range from 0 to 10 A for which the OCC of this generator is given as:
+![I_F](https://latex.codecogs.com/svg.image?I_F), is 10 A. The current of the field circuit, ![I_F](https://latex.codecogs.com/svg.image?I_F), is adjustable over the range from 0 to 10 A for which the OCC of this generator is given as:
 
 ![equation](https://latex.codecogs.com/svg.image?%5Clarge%20V_%7BT,OpenCircuit%7D(I_F)=20%5C,(1.05-%5Cexp(-0.3%5C,I_F))%5C;kV)
 
