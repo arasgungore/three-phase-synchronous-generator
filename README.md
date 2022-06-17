@@ -14,17 +14,13 @@ A 13.8 kV, 50 MVA, 0.9–power–factor–lagging, 60 Hz, four-pole Y–connecte
 In all of the plots, the phasors need to be in vector shapes not as simple lines (Hint: check the
 command quiver).
 
-1. Create a MATLAB function for plotting the phasor diagram of the generator for different values of the stator current
-![I_A](https://render.githubusercontent.com/render/math?math=I_A), the field current ![I_F](https://render.githubusercontent.com/render/math?math=I_F), the terminal voltage ![V_T](https://render.githubusercontent.com/render/math?math=V_T), and the power angle (and perhaps the color of the objects in the plot). Explain briefly in
-your report theoretical calculations and include the code in the appendix of the report.
+1. Create a MATLAB function for plotting the phasor diagram of the generator for different values of the stator current ![I_A](https://latex.codecogs.com/svg.image?I_A), the field current ![I_F](https://latex.codecogs.com/svg.image?I_F), the terminal voltage ![V_T](https://latex.codecogs.com/svg.image?V_T), and the power angle (and perhaps the color of the objects in the plot). Explain briefly in your report theoretical calculations and include the code in the appendix of the report.
 
-2. At rated conditions, compute and provide ![|I_A|max](https://render.githubusercontent.com/render/math?math=|I_A|_{max}) and
-![|E_A|max](https://render.githubusercontent.com/render/math?math=|E_A|_{max}). Explain briefly in your report theoretical calculations. For rated conditions plot the phasor diagram and limit circles of the appropriate variables in red. Include the plot in the report.
+2. At rated conditions, compute and provide ![|I_A|max](https://latex.codecogs.com/svg.image?|I_A|_{max}) and ![|E_A|max](https://latex.codecogs.com/svg.image?|E_A|_{max}). Explain briefly in your report theoretical calculations. For rated conditions plot the phasor diagram and limit circles of the appropriate variables in red. Include the plot in the report.
 
-3. For this part, assume that the terminal voltage remains at the rated values described in the question. Create a new plot that contains the red limit circles. In this new figure, using different colors, the plot for 0.9–power–factor–lagging and 0.9–power–factor–leading ![E_A](https://render.githubusercontent.com/render/math?math=E_A) limit circles corresponding to ![I_F](https://render.githubusercontent.com/render/math?math=I_F) = 2 A and
-![I_F](https://render.githubusercontent.com/render/math?math=I_F) = 6 A as well as the phasors of relevant quantities. Note that the total number of diagrams is four over the same plot excluding the red limit diagram.
+3. For this part, assume that the terminal voltage remains at the rated values described in the question. Create a new plot that contains the red limit circles. In this new figure, using different colors, the plot for 0.9–power–factor–lagging and 0.9–power–factor–leading ![E_A](https://latex.codecogs.com/svg.image?E_A) limit circles corresponding to ![I_F](https://latex.codecogs.com/svg.image?I_F) = 2 A and ![I_F](https://latex.codecogs.com/svg.image?I_F) = 6 A as well as the phasors of relevant quantities. Note that the total number of diagrams is four over the same plot excluding the red limit diagram.
 
-4. For each case when varying power factors and ![I_F](https://render.githubusercontent.com/render/math?math=I_F) provide in the report a short analysis of generator behavior in terms of active and reactive power by observing the plots you created.
+4. For each case when varying power factors and ![I_F](https://latex.codecogs.com/svg.image?I_F) provide in the report a short analysis of generator behavior in terms of active and reactive power by observing the plots you created.
 
 
 
