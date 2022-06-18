@@ -25,6 +25,22 @@ In all of the plots, the phasors need to be in vector shapes, not as simple line
 
 
 
+## Figures
+
+### Phasor Diagram
+
+<p align="left">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/three-phase-sync-generator/main/Plots/1.png" width="800">
+</p>
+
+### Lagging/Leading PF
+
+<p align="left">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/three-phase-sync-generator/main/Plots/2.png" width="800">
+</p>
+
+
+
 ## Run on Terminal
 
 ```sh
