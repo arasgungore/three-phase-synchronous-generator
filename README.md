@@ -25,7 +25,7 @@ In all of the plots, the phasors need to be in vector shapes, not as simple line
 
 
 
-## Figures
+## Plots
 
 ### Phasor Diagram
 
@@ -33,7 +33,7 @@ In all of the plots, the phasors need to be in vector shapes, not as simple line
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/three-phase-sync-generator/main/Plots/1.png" width="800">
 </p>
 
-### Lagging/Leading PF
+### Lagging/Leading Power Factor (PF)
 
 <p align="left">
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/three-phase-sync-generator/main/Plots/2.png" width="800">
