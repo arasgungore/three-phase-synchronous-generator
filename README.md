@@ -6,6 +6,14 @@ This project was assigned for the Energy Conversion (EE 304) course in the Sprin
 
 
 
+## Run on Terminal
+
+```sh
+matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
+```
+
+
+
 ## Description
 
 A 13.8 kV, 50 MVA, 0.9–power–factor–lagging, 60 Hz, four-pole Y–connected synchronous generator has a synchronous reactance of 2.5 Ω and an armature resistance of 0.2 Ω. At 60 Hz, its friction and windage losses are 1 MW, and its core losses are 1.5 MW. The field circuit has a DC voltage of 120 V, and the maximum field current,
@@ -38,14 +46,6 @@ In all of the plots, the phasors need to be in vector shapes, not as simple line
 <p align="left">
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/three-phase-sync-generator/main/Plots/2.png" width="800">
 </p>
-
-
-
-## Run on Terminal
-
-```sh
-matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
-```
 
 
 
