@@ -1,4 +1,4 @@
-# three-phase-sync-generator
+# three-phase-synchronous-generator
 
 A MATLAB project which analyzes a 13.8 kV, 50 MVA, 0.9–power–factor–lagging, 60 Hz, four-pole Y–connected three-phase stand-alone synchronous generator.
 
